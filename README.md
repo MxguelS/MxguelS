@@ -1,6 +1,6 @@
 ### Hola 👋
-
-¡Bienvenido a mi perfil de GitHub! Soy un entusiasta de la programación y me encanta trabajar en una variedad de proyectos interesantes. Aquí tienes algunos datos divertidos sobre mí:
+¡Bienvenido a mi perfil de GitHub! Soy un entudiante de la programación (desarrollo  y gestion de software) y trabajo en una variedad de proyectos interesantes. 
+Aquí tienes algunos datos divertidos sobre mí:
 
 - 🔭 Actualmente estoy trabajando en un proyecto secreto que involucra robots y gatos robóticos. 🤖😸
 - 🌱 Estoy aprendiendo a tocar la guitarra y a hablar japonés. 🎸🇯🇵
