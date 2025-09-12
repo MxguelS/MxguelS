@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Lenguajes: **Java, Python, SQL, C#, C++**
+  🦄 Lenguajes: <strong>Java, Python, SQL, C#, C++<strong>.
 </p>
 
 <p align="left">
