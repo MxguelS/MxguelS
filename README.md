@@ -1,4 +1,4 @@
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" alt="Avatar Anime" height="150" align="right">
 
 <p align="left"> 
   Que xopa! Soy <strong>Miguel</strong>.<br>
