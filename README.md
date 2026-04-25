@@ -1,4 +1,4 @@
-<p align="right">
+<p align="lefth">
   <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" height="120" />
 </p>
 
