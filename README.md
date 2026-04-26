@@ -5,7 +5,7 @@
 <h3>Hola, soy Miguel</h3>
 
 <p>
-    Dsarrollo  software enfocado en Python.
+    Desarrollo software enfocado en Python.
 </p>
 
 <p>
