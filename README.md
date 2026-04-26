@@ -2,10 +2,10 @@
   <img src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif" height="120" />
 </p>
 
-<h3>Hola, soy Miguel 👋</h3>
+<h3>Hola, soy Miguel </h3>
 
 <p>
-  Estudiante de desarrollo de software enfocado en Java y Python.
+ Desarrollo software en python.
 </p>
 
 <p>
